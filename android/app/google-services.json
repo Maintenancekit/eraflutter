@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "84399204863",
+    "project_id": "emergency-road-assister",
+    "storage_bucket": "emergency-road-assister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84399204863:android:9710b68a9d27f822759fca",
+        "android_client_info": {
+          "package_name": "com.romario.eidea.emergencyidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84399204863-p5c41r7a21bfda96t657791p5uqf95di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bMRgFn2bdcHcSl6k3RHznIPW5qkwWhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84399204863-p5c41r7a21bfda96t657791p5uqf95di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84399204863-9ndgcd8truenaj3tk8en898gah03rmmu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.romario.eidea.emergencyidea.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84399204863:android:b4604b89999a5403759fca",
+        "android_client_info": {
+          "package_name": "com.romarioburke.era"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84399204863-p5c41r7a21bfda96t657791p5uqf95di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bMRgFn2bdcHcSl6k3RHznIPW5qkwWhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84399204863-p5c41r7a21bfda96t657791p5uqf95di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84399204863-9ndgcd8truenaj3tk8en898gah03rmmu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.romario.eidea.emergencyidea.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
